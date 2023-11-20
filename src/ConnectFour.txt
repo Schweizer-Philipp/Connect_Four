@@ -1,0 +1,21 @@
+1. MenüPanel
+2. GamePanel
+3. Spieler
+4. ai
+5. keyController
+
+ Game soll ein "Zaun" haben der blau ist wo löcher drin sind wo man die Runden spielsteine sieht 
+ Spielsteinefarbe : wählt benuter
+ bei gewinn werden die 4 spielsteine rausquillen 
+ akt spieler und farbe werden angezeigt an der linken seite des spieles 
+ standard frame
+ per pfeiltaste links und rechts soll entschieden werden wo der spielstein runter fällt
+ fallen soll animiert sein
+ nachricht wer gewinnt soll per JOptionpane ausgeben werden -> spiel restet
+ computer mittel schwer und unbesiegbar. 
+ Menü soll optionen spiel starten und exit haben 
+ bei optionen soll die farbe eingestellt werden 
+ bei spiel startet ob er gegen mensch oder computer will wenn cpmter wie stark und wer anfängt
+ mögliches spielfeld von 6*6 bis 10*10 und von 4 gewinnt bis 6 gewinnt
+ Swing
+ java 1.8 
